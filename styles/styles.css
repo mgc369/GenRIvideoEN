@@ -367,6 +367,10 @@ p,ul,ol{margin-top:0.5em;margin-bottom:0.7em}
     margin: 0 auto;
 }
 
+.toRight {
+    text-align: right;
+}
+
 /* ==== Mobile heading fix — 2025‑10‑29 (only sizes/line-height for headings) ==== */
 html {
   -webkit-text-size-adjust: 100%;
