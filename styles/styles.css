@@ -88,7 +88,7 @@ h2 {
     padding-bottom: 15px;
 }
 
-h2::after {
+.redLine::after {
     content: '';
     position: absolute;
     bottom: 0;
