@@ -307,6 +307,17 @@ tbody tr:nth-child(even) {
     color: #FF6700;
 }
 
+video {
+    width: 200px;
+    height: 300px;
+}
+
+.shorts {
+    display: grid;
+    height: 750px;
+    grid-template-columns: repeat(4, 1fr); 
+}
+
 /* ==================== АДАПТИВНОСТЬ (MEDIA QUERIES) ==================== */
 @media (max-width: 900px) {
     .hero h1 {
